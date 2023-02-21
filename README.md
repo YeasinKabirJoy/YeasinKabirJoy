@@ -58,17 +58,16 @@
 <h2 align="center">💹 Most Popular Repos 💹</h2>
 <br>
 <p align="center">
-<a href="https://github.com/HalemoGPA/Learn-Js/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HalemoGPA&repo=Learn-Js&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
   
-<a href="https://github.com/HalemoGPA/Learn-CSS/">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YeasinKabirJoy&show_icons=true&locale=en" alt="yeasinkabirjoy" /></p>
+ 
+  
+<!-- <a href="https://github.com/HalemoGPA/Learn-CSS/">
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HalemoGPA&repo=Learn-CSS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>     -->
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YeasinKabirJoy&show_icons=true&locale=en" alt="yeasinkabirjoy" /></p>
 
 
 <hr>
