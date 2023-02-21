@@ -59,8 +59,7 @@
 <br>
 <p align="center">
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YeasinKabirJoy&show_icons=true&locale=en" alt="yeasinkabirjoy" /></p>
- 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=YeasinKabirJoy&show_icons=true&locale=en" alt="yeasinkabirjoy" />
   
 <!-- <a href="https://github.com/HalemoGPA/Learn-CSS/">
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HalemoGPA&repo=Learn-CSS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
