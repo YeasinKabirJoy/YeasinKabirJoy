@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=yeasinkabirjoy&label=Profile%20views&color=0e75b6&style=flat" alt="yeasinkabirjoy" />    
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=This+is+Sk.+Yeasin+Kabir+Joy;Good+to+see+you!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=This+is+Sk.+Yeasin+Kabir+Joy+%F0%9F%91%8B;Good+to+see+you!" alt="Typing SVG" />
 </h1>
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
@@ -12,7 +12,7 @@
   <br>
   👨‍🎓Graduated from University of Asia Pacific
   <br>
-  💻 I love Writing code, Hardware and learning anything about them 😊
+  💻 I love Writing code, Build projects and learning anything about them 😊
   <br>
   📚 I’m currently focusing on Python, Django and Data Science 
   <br>
