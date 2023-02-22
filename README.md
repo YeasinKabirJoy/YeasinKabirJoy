@@ -1,5 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA">    
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
+<img align="right" src="https://komarev.com/ghpvc/?username=yeasinkabirjoy&label=Profile%20views&color=0e75b6&style=flat" alt="yeasinkabirjoy" />    
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -78,7 +77,7 @@
 <h1 align="center">Hi 👋, I'm Sk. Yeasin Kabir Joy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeasinkabirjoy&label=Profile%20views&color=0e75b6&style=flat" alt="yeasinkabirjoy" /> </p>
+<p align="left">  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
