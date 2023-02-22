@@ -48,9 +48,7 @@
 
 
 <p align="center">
-<a href="https://github.com/HalemoGPA/">
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalemoGPA&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
- </a>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yeasinkabirjoy&show_icons=true&locale=en&layout=compact" alt="yeasinkabirjoy" />
 </p>
 
 <hr>
@@ -59,6 +57,7 @@
 <p align="center">
   
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=YeasinKabirJoy&show_icons=true&locale=en" alt="yeasinkabirjoy" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeasinkabirjoy&show_icons=true&locale=en" alt="yeasinkabirjoy" />
   
 <!-- <a href="https://github.com/HalemoGPA/Learn-CSS/">
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HalemoGPA&repo=Learn-CSS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -88,7 +87,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeasinkabirjoy&show_icons=true&locale=en&layout=compact" alt="yeasinkabirjoy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeasinkabirjoy&show_icons=true&locale=en" alt="yeasinkabirjoy" /></p>
+
 
 
 
