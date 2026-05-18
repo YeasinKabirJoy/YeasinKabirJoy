@@ -18,7 +18,7 @@ I am a Computer Science graduate from the University of Asia Pacific, based in B
 
 - 🔭 **Currently focusing on:** Advanced Python, Django REST Framework, and On-device AI.
 - 💡 **Passion:** Writing clean, maintainable code and solving complex architectural problems.
-- 📫 **Connect with me:** [Website](https://www.yeasinkabirjoy.com/) • [LinkedIn](https://www.linkedin.com/in/yeasinkabirjoy/) • [Email](mailto:yeasinjoy16@gmail.com) • [GitHub](https://github.com/YeasinKabirJoy)
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/yeasinkabirjoy/) • [Email](mailto:yeasinjoy16@gmail.com) • [Website](https://www.yeasinkabirjoy.com/)
 
 ---
 
@@ -73,8 +73,13 @@ I am a Computer Science graduate from the University of Asia Pacific, based in B
 
 <p align="left">
   <img src="https://github-readme-stats-git-master-yeasinkabirjoys-projects.vercel.app/api?username=yeasinkabirjoy&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Stats" height="170" />
+</p>
+
+<!--
+<p align="left">
   <img src="https://github-readme-stats-git-master-yeasinkabirjoys-projects.vercel.app/api/top-langs?username=yeasinkabirjoy&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" alt="Top Languages" height="170" />
 </p>
+-->
 
 ---
 
